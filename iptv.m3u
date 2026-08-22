@@ -57,6 +57,8 @@ https://vips-livecdn.fptplay.net/MzUwNjIyN3xmLWNoYW5uZWwxX3ZobHMuc21pbHxmcHR8MTc
 https://vips-livecdn.fptplay.net/live/media/su-kien-10/hls_avc_v6/index.m3u8?sign=1787401421-NDQ5NTc5NA-0-16b611107e51ae7cc850bc07504d7c91
 #EXTINF:0 tvg-id="fptvn2" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Play VN 2
 https://vips-livecdn.fptplay.net/live/media/su-kien-10/hls_avc_v6/index.m3u8?sign=1787404011-NDQ5NTc5NA-0-918000036557d75009e91c0a2bebe454
+#EXTINF:0 tvg-id="fptvn2" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Play VN 3
+https://vips-livecdn.fptplay.net/live/media/su-kien-10/hls_avc_v6/index.m3u8?sign=1787405215-NDQ5NTc5NA-0-cbcf89cfdd6cdd8124a1ee1165e11a39
 #-------------------TV360-------------------#
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
