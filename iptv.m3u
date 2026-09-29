@@ -33,6 +33,8 @@ https://film4k.net/api/live/fpt/epl-hn-01-4k-bk/master.m3u8
 https://film4k.net/api/live/fpt/epl-hcm-03-bk/master.m3u8
 #EXTINF:0 tvg-id="" group-title="Premier League" tvg-logo="https://i.imgur.com/MvdzZwM.png",Gio Vang
 https://eqr2hdarxfliv.vcdn.cloud/1789905340_hd/1789905340_hd@720p.m3u8
+#EXTINF:0 tvg-id="" group-title="Premier League" tvg-logo="https://i.imgur.com/MvdzZwM.png",TV360 10
+https://ec01-pop5-hht.tv360.vn/bpk-token/jr6uireks5nejbpegecu27keirgh2rce/bpk-tv/449/output/449-audio_208000_eng_iv_3=206000-video_iv_3=6525600.m3u8
 #-------------------Thiết yếu-------------------#
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD 
 https://vips-livecdn.fptplay.net/live/media/antv/live-hls-avc/antv-avc1_4000000=10000-mp4a_131600=20000.m3u8
