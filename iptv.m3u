@@ -34,7 +34,7 @@ https://film4k.net/api/live/fpt/epl-hcm-03-bk/master.m3u8
 #EXTINF:0 tvg-id="" group-title="Premier League" tvg-logo="https://i.imgur.com/MvdzZwM.png",Gio Vang
 https://ftlh5sc02iliv.vcdn.cloud/1791340579_hd/1791340579_hd@720p.m3u8
 #EXTINF:0 tvg-id="" group-title="Premier League" tvg-logo="https://i.imgur.com/MvdzZwM.png",TV360 10
-https://ec01-pop5-hht.tv360.vn/bpk-token/jr6uireks5nejbpegecu27keirgh2rce/bpk-tv/449/output/449-audio_208000_eng_iv_3=206000-video_iv_3=6525600.m3u8
+https://ec01-pop4-hlc.tv360.vn/bpk-token/uh4g4l3jq5vs7k3x7cv2b6dof6q7q3rp/bpk-tv/379/output/379-audio_208000_eng_iv_5=206000-video_iv_5=3417600.m3u8
 #-------------------Thiết yếu-------------------#
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD 
 https://vips-livecdn.fptplay.net/live/media/antv/live-hls-avc/antv-avc1_4000000=10000-mp4a_131600=20000.m3u8
@@ -419,6 +419,7 @@ https://vips-livecdn.fptplay.net/MzUwNjIyN3xhbmdpYW5nMDNfaGxzLnNtaWx8ZnB0fDE3ODE
 https://vips-livecdn.fptplay.net/MzUwNjIyN3xjYW1hdWhkX3ZobHMuc21pbHxmcHR8MTc4MTUyOTUxNHwxLjU0LjE3Mi4yNTJ8OWY0OTE1MTEyMDRiYzVmODAyNGQ1NjdmMTQ3NDk5NjQ/epzhd2/camauhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV | Thanh Hóa
 https://vips-livecdn.fptplay.net/MzUwNjIyN3x0aGFuaGhvYV9obHMuc21pbHxmcHR8MTc4MTUzMDIwMHwxLjU0LjE3Mi4yNTJ8MmE5ZTI0Zjk2NTUzNTM4OGNlMjJjMDA3MDc2MzY3YzE/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+
 
 
 
